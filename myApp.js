@@ -128,8 +128,6 @@ const queryChain = (done) => {
         
         done(null,searchResult);
       })
-
-  
 };
 
 /** **Well Done !!**
